@@ -1,0 +1,37 @@
+.searchContainer {
+  display: grid;
+  grid-template-columns: 200px 30px 30px;
+}
+.searchBar {
+  padding: 5px;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 38px;
+  background-color: aliceblue;
+  display: flex;
+  padding: grid;
+  overflow: auto;
+  align-content: space-evenly;
+}
+.searchOptions {
+  background: lightgrey;
+
+  /*display: flex;
+  padding: grid;*/
+  overflow: auto;
+  display: inline-flex;
+  flex-flow: wrap;
+}
+
+.outerSearchBar {
+  grid-column: 1;
+  grid-row: 1;
+}
+.outerSearchOptions {
+  grid-column: 2;
+  grid-row: 1;
+}
+.outerSearchDiscard {
+  grid-column: 3;
+  grid-row: 1;
+}
