@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10ad4ff2e092252bf9e866b7c8e8e36e",
+    "revision": "d1d48febac65a92043f2e9eb14ccd05d",
     "url": "/reVISit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reVISit/static/css/2.99a5358a.chunk.css"
   },
   {
-    "revision": "b93dbc465df71420a22d",
+    "revision": "d31d8ed2e7acfcbd85bc",
     "url": "/reVISit/static/css/main.8fdfddcf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reVISit/static/js/2.f92a6b0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b93dbc465df71420a22d",
-    "url": "/reVISit/static/js/main.2dfb16a4.chunk.js"
+    "revision": "d31d8ed2e7acfcbd85bc",
+    "url": "/reVISit/static/js/main.f3dcef44.chunk.js"
   },
   {
     "revision": "92db2164e3d8028136a5",
